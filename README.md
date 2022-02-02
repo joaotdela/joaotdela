@@ -1,4 +1,4 @@
-## Hi! I'm João Tancredi Dela Rocca 18y
+## 👋 Hi! I'm João Tancredi Dela Rocca 18y
 <div aling="center">
   <h2>📖 I'm currently learning:<br><br>
     <img align="center" alt="Joao-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +11,7 @@
    </h2>
  </div>
 <div align="left">
- <h2> My git hub Stats:<br><br>
+ <h2><img heitgh='25' width='30'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> My github stats:<br><br>
   <a href="https://github.com/joaotdela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotdela&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotdela&layout=compact&langs_count=7&theme=radical"/>
