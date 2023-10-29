@@ -1,4 +1,4 @@
-## 👋 Hi! I'm João Tancredi Dela Rocca 18y
+## 👋 Hi! I'm João Tancredi Dela Rocca 20y
 <div aling="center">
   <h2>📖 I'm currently learning:<br><br>
     <img align="center" alt="Joao-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
