@@ -1,4 +1,4 @@
-## 👋 Hi! I'm João Tancredi Dela Rocca 21y
+## 👋 Hi! I'm João Tancredi Dela Rocca
 <div aling="center">
   <h2>📖 I'm currently learning:<br><br>
     <img align="center" alt="Joao-Go" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-plain.svg" />
