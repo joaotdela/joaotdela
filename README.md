@@ -5,13 +5,6 @@
     <img align="center" alt="Joao-Go" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
    </h2>
  </div>
-<div align="left">
- <h2><img heitgh='25' width='30'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> My github stats:<br><br>
-  <a href="https://github.com/joaotdela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotdela&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotdela&layout=compact&langs_count=7&theme=radical"/>
-     </h2>
-</div>
  <div>
   <h2>🔭 How to reach me:<br><br>
          <a href="https://www.linkedin.com/in/joão-dela-rocca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
